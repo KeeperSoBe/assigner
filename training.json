@@ -1,0 +1,79 @@
+[{
+        "category": "RMA-BOOK",
+        "primaryWords": ["rma", "repair"],
+        "secondaryWords": ["open", "opening", "opened", "create", "creating", "created", "repair", "repaired", "repairs", "replacement"],
+        "primary_keyword_weighting": 2,
+        "secondary_keyword_weighting": 1,
+        "category_weighting": 3
+    },
+    {
+        "category": "RMA-TRACKING",
+        "primaryWords": ["rma", "repair"],
+        "secondaryWords": ["question", "questions", "repairing", "repaired", "repairing", "repairs", "ship", "shipped", "shipping", "return", "track", "tracked", "tracking", "status", "address", "update"],
+        "primary_keyword_weighting": 2,
+        "secondary_keyword_weighting": 1,
+        "category_weighting": 3
+
+    },
+    {
+        "category": "SPECS",
+        "primaryWords": ["specs", "spec", "specification", "specifications"],
+        "secondaryWords": ["infomation", "details", "compare", "comparison"],
+        "primary_keyword_weighting": 2,
+        "secondary_keyword_weighting": 1,
+        "category_weighting": 3
+
+    },
+    {
+        "category": "DRIVERS",
+        "primaryWords": ["driver", "drivers"],
+        "secondaryWords": ["update", "updates", "install", "reinstall", "uninstall", "download", "redownload"],
+        "primary_keyword_weighting": 2,
+        "secondary_keyword_weighting": 1,
+        "category_weighting": 3
+    },
+    {
+        "category": "WARRANTY",
+        "primaryWords": ["warranty", "warrantys", "warranties"],
+        "secondaryWords": ["guarantee", "guarantees", "guarantes", "adp", "protect", "protection"],
+        "primary_keyword_weighting": 2,
+        "secondary_keyword_weighting": 1,
+        "category_weighting": 3
+
+    },
+    {
+        "category": "CANT-BOOT",
+        "primaryWords": ["boot", "bsod"],
+        "secondaryWords": ["blue", "death", "bios", "cycle", "loop"],
+        "primary_keyword_weighting": 2,
+        "secondary_keyword_weighting": 1,
+        "category_weighting": 3
+
+    },
+    {
+        "category": "HARDWARE",
+        "primaryWords": ["hardware", "failure", "failed", "damage", "damaged"],
+        "secondaryWords": ["defective", "fail", "fault", "faults", "faulty", "charge", "charging", "charge", "overheat", "overheats", "overheating", "broken", "broke", "break", "breaking", "smash", "smashed", "bent", "busted", "bust", "liquid", "spilt", "split", "screen", "flickering", "flickers", "flicker"],
+        "primary_keyword_weighting": 2,
+        "secondary_keyword_weighting": 1,
+        "category_weighting": 3
+
+    },
+    {
+        "category": "SOFTWARE",
+        "primaryWords": ["software", "crash", "force", "corrupted", "os", "startup", "firmware", "freezes", "crashes", "crashed"],
+        "secondaryWords": ["closing", "closed", "close", "loop", "win", "windows", "activation", "key", "load", "loads", "loading", "freezing", "glitching", "glitch", "glitches", "forced"],
+        "primary_keyword_weighting": 2,
+        "secondary_keyword_weighting": 1,
+        "category_weighting": 3
+
+    },
+    {
+        "category": "NOISE",
+        "primaryWords": [],
+        "secondaryWords": ["issue", "issues", "serial", "help", "question", "support", "questions", "sale", "sales", "n", "enquiry", "inquiry", "problem", "problems", "virus"],
+        "primary_keyword_weighting": 0.5,
+        "secondary_keyword_weighting": 0.3,
+        "category_weighting": 1
+    }
+]
